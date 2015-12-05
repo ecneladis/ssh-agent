@@ -1,2 +1,2 @@
 image:
-	docker build -t whilp/ssh-agent:latest -f Dockerfile .
+	docker build -t ecneladis/ssh-agent:latest -f Dockerfile .
